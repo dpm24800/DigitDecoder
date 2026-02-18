@@ -1,8 +1,8 @@
 torch>=2.0.0
 torchvision>=0.15.0
 streamlit>=1.25.0
-streamlit-drawable-canvas>=0.10.0
-# streamlit-drawable-canvas==0.9.3
+# streamlit-drawable-canvas>=0.10.0
+streamlit-drawable-canvas==0.9.3
 pillow>=10.0.0
 numpy>=1.25.0
 matplotlib>=3.8.0
