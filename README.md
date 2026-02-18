@@ -5,7 +5,7 @@
 
 **Repo URL:** [https://github.com/dpm24800/DigitDecoder](https://github.com/dpm24800/DigitDecoder)  
 **Notebook on Colab:** [Open in Colab](https://colab.research.google.com/drive/1w5DdIKz5Kf20lc03Xk8woqFrqIsbSiB2)  
-**Deployed App:** [DigitDecoder](https://digitdecoder.streamlit.app/)
+**Deployed App:** [DigitDecoder](https://dpm24800-digitdecoder.streamlit.app/)
 
 ---
 
