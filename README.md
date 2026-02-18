@@ -5,7 +5,7 @@
 
 **Repo URL:** [https://github.com/dpm24800/DigitDecoder](https://github.com/dpm24800/DigitDecoder)  
 **Notebook on Colab:** [Open in Colab](https://colab.research.google.com/drive/1w5DdIKz5Kf20lc03Xk8woqFrqIsbSiB2)  
-**Deployed App:** *Insert your Streamlit URL here*
+**Deployed App:** [DigitDecoder](https://digitdecoder.streamlit.app/)
 
 ---
 
@@ -49,7 +49,7 @@ streamlit run <filename>.py
 
 ![Upload Digit](screenshots/upload_example.png)
 
-> *Tip:* You can try the live app at [Streamlit URL](#) to interact with the model in real-time.
+> *Tip:* You can try the live app at [Streamlit URL](https://dpm24800-digitdecoder.streamlit.app/) to interact with the model in real-time.
 
 
 ---
